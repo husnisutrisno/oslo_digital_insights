@@ -1,0 +1,1 @@
+web: gunicorn oslo_dashboard:server

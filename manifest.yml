@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Digital Insight WSP-Oslo
+   host: wsp-digital-insights
+   memory: 512M
